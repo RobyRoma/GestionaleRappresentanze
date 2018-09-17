@@ -13,6 +13,14 @@ La rappresentazione del modello presenta la classe Fornitore, la classe Produtto
 L'uso del software sarà di tipo locale (non richiesta interfaccia web)
 
 ### Implementazione
-Lo strumento per l'implementazione della soluzione...
+Gli strumenti a disposizione per l'implementazione della soluzione sono diversi e con diversi tempi di realizzazione e di manutenzione. I principali su cui si può decidere di ragione per una corretta e immediata realizzazione sono:
+* MsVisualBasic 6
+* MsVisualBasic .Net (2015 o 2017)
+
+Architettura dati (obbligatoriamente):
+* [MsSQLServer Express 2012](https://www.microsoft.com/it-it/sql-server/sql-server-editions-express) (gratuito).
+
+## Strumenti
+Utilizzare ovviamente strumenti di collaborazione come Git per la gestione del codice sorgente e di tutto il materiale collegato al progetto.
 
 **14/09/2018**
