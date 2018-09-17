@@ -22,5 +22,3 @@ Architettura dati (obbligatoriamente):
 
 ## Strumenti
 Utilizzare ovviamente strumenti di collaborazione come [Git](https://git-scm.com/) per la gestione del codice sorgente e di tutto il materiale collegato al progetto.
-
-**14/09/2018**
